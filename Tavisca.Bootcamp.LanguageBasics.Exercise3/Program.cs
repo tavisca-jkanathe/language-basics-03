@@ -153,7 +153,6 @@ namespace Tavisca.Bootcamp.LanguageBasics.Exercise1
                 result[r++]=index_array[0];
             }
             return result;
-            throw new NotImplementedException();
         }
     }
 }
